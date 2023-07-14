@@ -1,0 +1,67 @@
+.gridpost{
+    height: 400px;
+    width: 300px;
+    
+    border-radius: 10px;
+
+     box-shadow: 10px 10px 27px 0px rgba(92,89,89,0.77);
+    -webkit-box-shadow: 10px 10px 27px 0px rgba(92,89,89,0.77);
+    -moz-box-shadow: 10px 10px 27px 0px rgba(92,89,89,0.77);
+}
+
+.postownernameandlike{
+    display: flex;
+    justify-content: space-between;
+
+    
+    
+
+}
+
+.postImage{
+    height: 350px;
+    width: 300px;
+    border-radius: 10px 10px 0px 0px;
+    position: relative;
+    
+}
+
+.picandname{
+    align-items: center;
+    display: flex;
+}
+
+.postImage2{
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    
+    border: none;
+    position: relative;
+    margin-top: 0px;
+    margin-left: 6px;
+    
+    
+}
+
+.postImage2name{
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.likesandcomment{
+    display: flex;
+    align-items: center;
+}
+
+.likecount{
+    margin-right: 5px;
+}
+
+.commentcount{
+    margin: 0px 5px 0px 2px;
+}
+
+.likecount{
+    margin: 0px 8px 0px 2px;
+}

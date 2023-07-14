@@ -1,0 +1,54 @@
+.storytextpart{
+    
+    display: flex;
+    
+}
+
+.watch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 750px;
+}
+
+.watchalltxt{
+    position: relative;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.propic1{
+    height: 70px;
+    width: 80px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: orange;
+    padding: 2px;
+    position: relative;
+    margin-top: 0px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.storypicpart{
+    display: flex;
+    width: calc(150vh);
+    overflow-x: scroll;
+    
+}
+
+::-webkit-scrollbar{
+    height: 5px;
+}
+
+::-webkit-scrollbar-track{
+    background-color: rgb(252, 252, 252);
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: rgb(252, 251, 251);
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background-color: rgb(148, 147, 147);
+}

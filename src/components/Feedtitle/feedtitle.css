@@ -1,0 +1,19 @@
+.textpart2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.populattext{
+    margin-right: 20px;
+    color: rgb(121, 120, 120);
+}
+
+.latesttext2{
+    margin-right: 20px;
+}
+
+.latesttext{
+    margin-right: 20px;
+}
+

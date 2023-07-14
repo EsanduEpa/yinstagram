@@ -1,0 +1,33 @@
+.IconContainer{
+    margin-left: 100px;
+    margin-top: 20px;
+    
+    
+}
+
+/* .container{
+    display: flex;
+} */
+
+
+
+.iconItems{
+    list-style: none;
+    margin-top: 15px;
+    margin-left: 0;
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+#logout{
+    margin-top: 40px;
+    position: relative;
+}
+
+
+.iconname{
+    margin-left: 10px;
+    cursor: pointer;
+}
